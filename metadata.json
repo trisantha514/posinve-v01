@@ -1,0 +1,6 @@
+{
+  "name": "WCS Inventory POS",
+  "description": "WCS Inventory POS is a fully featured modern Point of Sale (POS) and inventory management dashboard with support for multiple user roles, 80mm receipt printing, barcode label generation, reports, expenses, purchase orders, customer accounts, and system integration guides.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
